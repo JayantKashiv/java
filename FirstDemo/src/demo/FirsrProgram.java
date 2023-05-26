@@ -11,8 +11,9 @@ public class FirsrProgram {
 		            // sum = sum + i;
 		            sum += i;
 		        }
-
+		
 		        System.out.println("Sum = " + sum);
 	}
 
 }
+	//did modification
